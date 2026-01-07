@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
     msg += `%0ATotal: R$ ${getTotal().toFixed(2)}`;
 
     window.open(
-      `https://wa.me/5551920049759?text=${msg}`,
+      `https://wa.me/557599363422?text=${msg}`,
       "_blank"
     );
   }
@@ -85,3 +85,4 @@ document.addEventListener("DOMContentLoaded", () => {
   updateCartCount();
 
 });
+
